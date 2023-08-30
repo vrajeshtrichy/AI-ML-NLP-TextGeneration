@@ -5,7 +5,6 @@ This repository contains two Jupyter notebook projects for text generation using
 This project demonstrates text generation using Long Short-Term Memory (LSTM) networks with TensorFlow and Keras. It generates text based on a dataset of headlines from the New York Times.
 
 - [Notebook](Article-Generation-TensorFlow-Keras-LSTM/Article-Generation-TensorFlow-Keras-LSTM.ipynb)
-- Original file is located at [Colab](https://colab.research.google.com/github/vrajeshtrichy/AI-ML-NLP-TextGeneration/blob/master/Article-Generation-TensorFlow-Keras-LSTM/Article-Generation-TensorFlow-Keras-LSTM.ipynb)
 
 ### Data Preparation
 
@@ -35,7 +34,6 @@ This project demonstrates text generation using Long Short-Term Memory (LSTM) ne
 This project focuses on generating poetry inspired by Shakespeare's works using LSTM networks.
 
 - [Notebook](Poetry-TextGeneration-Using-TensorFlow-Keras-LSTM/Poetry-Generation-TensorFlow-Keras-LSTM.ipynb)
-- Original file is located at [Colab](https://colab.research.google.com/github/vrajeshtrichy/AI-ML-NLP-TextGeneration/blob/master/Poetry-TextGeneration-Using-TensorFlow-Keras-LSTM/Poetry-Generation-TensorFlow-Keras-LSTM.ipynb)
 
 ### Data and Tokenization
 
